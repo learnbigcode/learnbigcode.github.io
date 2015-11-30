@@ -88,6 +88,15 @@ body {
 	}
 }
 
+// Listed challenges
+
+.highlightitem {
+	padding: 10px;
+}
+.highlightitem:hover {
+	background:#eee;
+}
+
 // Single Post and Page
 // --------------------------------------------------
 .entry-meta {
@@ -339,6 +348,7 @@ ul.social-buttons li a:active {
 // --------------------------------------------------
 #post-index {
 	#main {
+		background-color: $main-color;
 		margin: 40px 2px 20px 2px;
 		@media #{$medium} {
 			margin-left: 20px;
@@ -460,7 +470,7 @@ ul.social-buttons li a:active {
 	position: relative;
 	width: 100%;
 	height: 100%;
-	min-height: 300px;
+	min-height: 180px;
 	overflow: hidden;
 	background-color: $header-color;
 }

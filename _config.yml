@@ -21,7 +21,7 @@ menu:
       - title: 'Malware Detection'
         url: '/tools/malware'  
       - title: 'Program Testing'
-        url: '/tools/test'  
+        url: '/tools/testing'  
       - title: 'Program Generation or Completion'
         url: '/tools/gen'  
       - title: 'Decompilation and Deobfuscation'
@@ -29,7 +29,7 @@ menu:
       - title: 'Code Statistics'
         url: '/tools/stats'  
   - title: 'Community'
-    url: '/comunity'
+    url: '/community'
     submenu:
 #      - title: 'Blog'
 #        url: '/community/blog'

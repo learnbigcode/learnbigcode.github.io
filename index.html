@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: "Learning From Big Code"
+title: "Introduction"
 description: "Learning From Big Code"
 tags: [learning, big code]
 comments: false
@@ -18,11 +18,11 @@ Have a look at the current <b><a href="/challenges">challenges</a></b> to be sol
 </p>
 
 <p>
-Download or try <b><a href="/challenges">working tools</a></b> that leverage "Big Code".
+Download or try <b><a href="/tools">amazing tools</a></b> that leverage "Big Code".
 </p>
 
 <p>
-Do research and download some of the existing <b><a href="/challenges">datasets</a></b> to compare your solution to state-of-the-art.
+Do research and download some of the existing <b><a href="/datasets">datasets</a></b> to compare your solution to state-of-the-art.
 </p>
 
 
@@ -37,7 +37,7 @@ Do research and download some of the existing <b><a href="/challenges">datasets<
       </div><!-- /.entry-image -->
     {% endif %}
     <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ post.author ? post.author : site.owner.name }}">{{ post.author ? post.author : site.owner.name }}</a></span></span>
       {% if site.reading_time %}
       <span class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
