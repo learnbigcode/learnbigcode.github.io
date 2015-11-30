@@ -1,15 +1,25 @@
-# Neo-HPSTR Jekyll Theme
-Based on https://github.com/mmistakes/hpstr-jekyll-theme
+# To edit the website
 
-Demo: http://aronbordin.com/neo-hpstr-jekyll-theme
+Getting started (first time)
+* Install Ruby. Minimum version 2.0 required.
+* Install bundler `gem install bundler`.
+* In the directory of the repo, run `bundle install`.
 
-# Live Demo
+Checking the effects of website edits (from the repo directory)
+* Run `bundle exec jekyll serve -P 8000` and see the result at `http://localhost:8000/`
 
-You can see it running [here](http://blog.rhesoft.com/) and [here](http://aronbordin.com/neo-hpstr-jekyll-theme/).
 
 
-## What HPSTR brings to the table:
 
+
+
+# This site is based on the Neo-HPSTR Jekyll Theme
+
+Based on https://github.com/aron-bordin/neo-hpstr-jekyll-theme
+
+The theme distributes under MIT license.
+
+We are thankful to the theme for the following.
 * Modern design.
 * Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
 * Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
