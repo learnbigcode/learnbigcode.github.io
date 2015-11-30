@@ -1,0 +1,109 @@
+title:            Learning from "Big Code"
+description:      A list of challenges, datasets and tools for using "Big Code".
+disqus_shortname: learnbigcode
+reading_time:     true
+words_per_minute: 200
+logo:             images/logo.png
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+# url: http://aronbordin.com/neo-hpstr-jekyll-theme
+
+menu:
+  - title: 'Challenges'
+    url: '/challenges'
+  - title: 'Datasets'
+    url: '/datasets'
+  - title: 'Tools'
+    url: '/tools'
+    submenu:
+      - title: 'Program Analysis'
+        url: '/tools/pa'
+      - title: 'Malware Detection'
+        url: '/tools/malware'  
+      - title: 'Program Testing'
+        url: '/tools/test'  
+      - title: 'Program Generation or Completion'
+        url: '/tools/gen'  
+      - title: 'Decompilation and Deobfuscation'
+        url: '/tools/decomp'  
+      - title: 'Code Statistics'
+        url: '/tools/stats'  
+  - title: 'Community'
+    url: '/comunity'
+    submenu:
+#      - title: 'Blog'
+#        url: '/community/blog'
+      - title: 'People'
+        url: '/community/people'
+      - title: 'Events'
+        url: '/community/events'  
+      - title: 'Contribute'
+        url: '/community/contribute'  
+
+# Owner/author information
+owner:
+  name:           Your name
+  site:           http://learnbigcode.github.com
+  avatar:         images/avatar.jpg
+  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  email:          veselin.raychev@inf.ethz.ch
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: vesugoogle
+  facebook:
+  github: learnbigcode
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
+  google_plus:    +VeselinRaychev
+
+social:
+  - title: "github"
+    url: "https://github.com/aron-bordin"
+  - title: "linkedin"
+    url: "https://br.linkedin.com/in/aronbordin"
+  - title: "youtube"
+    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+# Background image to be tiled on all pages
+background:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+highlighter: pygments
+markdown:    kramdown
+gems:
+  - jekyll-sitemap
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
