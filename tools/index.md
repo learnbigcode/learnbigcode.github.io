@@ -11,12 +11,14 @@ A list of tools that benefit from "Big Code". The goal here is to include tools 
 
 ## Categories
 
-* <a href="/tools/pa">Program Analysis</a> are tools that benefit from "Big Code"  or predict program invariants from "Big Code".
+* <a href="/tools/pa">Program Analysis</a> tools that benefit from "Big Code" or predict program invariants by learning from "Big Code".
 * <a href="/tools/malware">Malware Detection</a>.
 * <a href="/tools/testing">Program Testing</a> are tools that test or generate tests for programs. In this case "Big Code" can be used to automatically learn how others have tested certain scenarios.
-* <a href="/tools/gen">Program Generation and Completion</a> incldued program synthesis tools, code completion systems and systems translating natural language to code.
-* <a href="/tools/decomp">Decompilation and Deobfuscation</a> are tools that reverse the process of compilation or obfuscation. These tools use "Big Code" to make their output human-readable and understandable.
+* <a href="/tools/gen">Program Generation and Completion</a> includes program synthesis tools, code completion systems and systems translating natural language to code.
+* <a href="/tools/decomp">Decompilation and Deobfuscation</a> tools reverse the process of compilation or obfuscation. These tools use "Big Code" to make their output human-readable and understandable.
+* <a href="/tools/codesearch">Code Search</a> are systems that allow finding solutions in existing code.
+* <a href="/tools/learn">Learning Facts about Code</a> is about unsupervised learning. The output of this learning is clusters, regularities or some other interesting insight into how code is constructed.
 * <a href="/tools/stats">Code Statistics</a> aim to predict facts about programs (e.g. bugs) based on statistics from the code.
 
-
+If you have a tool you would like to list here, head to <a href="https://github.com/learnbigcode/learnbigcode.github.io/tree/master/tools">the github page</a> and create a pull request with your suggestion.
 

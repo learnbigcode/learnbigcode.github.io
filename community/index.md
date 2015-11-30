@@ -7,4 +7,10 @@ comments: false
 share: false
 ---
 
-# Community
+Here, you can find:
+
+* <a href="/community/people">List of people involved in "Big Code" projects</a>
+* <a href="/community/events">Conferences and workshops that include papers about "Big Code"</a>
+
+<a href="/community/contribute">Please contribute to this website by creating a pull request.</a>
+

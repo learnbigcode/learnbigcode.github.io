@@ -25,7 +25,11 @@ menu:
       - title: 'Program Generation or Completion'
         url: '/tools/gen'  
       - title: 'Decompilation and Deobfuscation'
-        url: '/tools/decomp'  
+        url: '/tools/decomp'
+      - title: 'Code Search'
+        url: '/tools/codesearch'
+      - title: 'Learnings Facts about Code'
+        url: '/tools/learn'
       - title: 'Code Statistics'
         url: '/tools/stats'  
   - title: 'Community'
@@ -69,7 +73,7 @@ social:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-70857322-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
