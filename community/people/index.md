@@ -9,7 +9,7 @@ share: false
 
 # List of people working in the area of "Big Code"
 
-If you work in the area, please add yourself.
+If you work in the area, please add yourself by editing <a href="https://github.com/learnbigcode/learnbigcode.github.io/blob/master/community/people/index.md">this file</a>.
 
 ## <a href="http://www.srl.inf.ethz.ch/">Software Reliability Group, ETH Zurich</a>
 

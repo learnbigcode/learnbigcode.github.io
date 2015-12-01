@@ -1,7 +1,7 @@
 title:            Learning from "Big Code"
 description:      A list of challenges, datasets and tools for using "Big Code".
 disqus_shortname: learnbigcode
-reading_time:     true
+reading_time:     false
 words_per_minute: 200
 logo:             images/logo.png
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tools"
+title: "Code Statistics Tools"
 description: "Big Code Challenges"
 tags: [learning, tools, statistics]
 comments: false

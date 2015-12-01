@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tools"
+title: "Code Search Tools"
 description: "Big Code Challenges"
 tags: [learning, tools, code search]
 comments: false
