@@ -7,18 +7,27 @@ comments: false
 share: false
 ---
 
-A list of tools that benefit from "Big Code". The goal here is to include tools that are readily available to developers, users and researchers.
+Add your program analysis tools by creating a pull request <a href="https://github.com/learnbigcode/learnbigcode.github.io/tree/master/tools">here</a>.
 
-## Categories
+<div class="highlightitem">
+<h2>JSNice</h2>
+<a href="http://jsnice.org/">JSNice</a> is a statistical predictor of variable names and type annotations for JavaScript developed at ETH Zurich. The tool learns a probabilistic type inference procedure for JavaScript.<br>
 
-* <a href="/tools/pa">Program Analysis</a> tools that benefit from "Big Code" or predict program invariants by learning from "Big Code".
-* <a href="/tools/malware">Malware Detection</a>.
-* <a href="/tools/testing">Program Testing</a> are tools that test or generate tests for programs. In this case "Big Code" can be used to automatically learn how others have tested certain scenarios.
-* <a href="/tools/gen">Program Generation and Completion</a> includes program synthesis tools, code completion systems and systems translating natural language to code.
-* <a href="/tools/decomp">Decompilation and Deobfuscation</a> tools reverse the process of compilation or obfuscation. These tools use "Big Code" to make their output human-readable and understandable.
-* <a href="/tools/codesearch">Code Search</a> are systems that allow finding solutions in existing code.
-* <a href="/tools/learn">Learning Facts about Code</a> is about unsupervised learning. The output of this learning is clusters, regularities or some other interesting insight into how code is constructed.
-* <a href="/tools/stats">Code Statistics</a> aim to predict facts about programs (e.g. bugs) based on statistics from the code.
+The learning, the type inference and the variable name reconstruction are framed as structured prediction using <a href="https://en.wikipedia.org/wiki/Conditional_random_field">Conditional Random Fields</a>. A general framework extensible to other languages and similar problems is available at
+<a href="http://nice2predict.org/">nice2predict.org</a>. Nice2Predict also includes visualization of the inference procedure.<br><br>
+
+<a href="http://jsnice.org/">[jsnice.org]</a> <a href="http://nice2predict.org/">[nice2predict.org]</a> <a href="http://www.srl.inf.ethz.ch/papers/jsnice15.pdf">[paper @ POPL 2015]</a> <a href="http://www.srl.inf.ethz.ch">[developers' website]</a> <a href="https://github.com/eth-srl/Nice2Predict">[github]</a>
+<br><span class="tags">Tags: #staticanalysis #deobfuscation</span>
+</div>
+
+<div class="highlightitem">
+<h2>SLANG</h2>
+
+SLANG is a code completion tool for Java that is intended to complete APIs. A tool trained on Android applications is available and evaluated on predicting what next Android API should be written in a program.<br><br>
+
+<a href="https://drive.google.com/file/d/0B0wMwmX05Ri7a056TllETHFEelU/view?usp=sharing">[SLANG tool]</a> <a href="http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf">[paper]</a> <a href="http://www.srl.inf.ethz.ch/">[author website 1]</a> <a href="http://www.cs.technion.ac.il/~yahave/">[author website 2]</a>
+<br><span class="tags">Tags: #staticanalysis #codecompletion</span>
+</div>
 
 If you have a tool you would like to list here, head to <a href="https://github.com/learnbigcode/learnbigcode.github.io/tree/master/tools">the github page</a> and create a pull request with your suggestion.
 
