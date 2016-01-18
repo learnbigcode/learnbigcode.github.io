@@ -21,3 +21,4 @@ share: false
 # Workshops
 
 * Dagstuhl workshop - <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15472">Programming from Big Code</a>
+* <a href="http://www.languageandcode.org/nlse2015/">NL + SE workshop</a>
