@@ -23,3 +23,19 @@ In case a dataset is useful for a specific task, a <a href="/challenges">challen
 </div>
 
 
+<div class="highlightitem">
+<h1 id="githubjava">Java GitHub corpus</h1>
+
+<p>This dataset includes about 14k Java files from GitHub, split into training and test set.
+The files are from open source projects that have been forked at least once.
+<br/>
+<a href="http://groups.inf.ed.ac.uk/cup/javaGithub/">[download dataset]</a></p>
+</div>
+
+<div class="highlightitem">
+<h1 id="naturalize">Java Variable and Method Naming Dataset and Embeddings</h1>
+
+<p>This dataset includes the Java source code and JSON serialized files containing their tokens and the locations of the tokens that refer to the same variable. It also contains pre-trained embeddings for variable and method names.<br/>
+
+<a href="http://groups.inf.ed.ac.uk/cup/naturalize/">[download dataset]</a></p>
+</div>

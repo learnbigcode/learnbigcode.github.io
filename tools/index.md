@@ -29,5 +29,38 @@ SLANG is a code completion tool for Java that is intended to complete APIs. A to
 <br><span class="tags">Tags: #staticanalysis #codecompletion</span>
 </div>
 
+<div class="highlightitem">
+<h2>codemining-*</h2>
+
+codemining-* is a suite of Java-based tools for tokenizing, parsing Java code. 
+The repository also contains code to analyze Git-based repositories.
+
+<ul>
+<li> <a href="https://github.com/mast-group/codemining-core">codeminining-core</a> contains code for tokenizing Java, JavaScript, Python, C and C++ in the JVM.</li>
+
+<li> <a href="https://github.com/mast-group/codemining-treelm">codemining-treelm</a> contains Java AST parsing and tree-level language models.</li>
+
+<li> <a href="https://github.com/mast-group/commitmining-tools">commitmining-tools</a> contains tools for traversing a Git repository, its history and possibly its files.</li>
+</ul>
+<br/><span class="tags">Tags: #codeanalysis</span>
+</div>
+
+<div class="highlightitem">
+<h2>TASSAL: Tree-based Autofolding Software Summarization ALgorithm</h2>
+TASSAL is a tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks. 
+
+<br/><a href="https://github.com/mast-group/tassal">[GitHub Repository]</a> <a href="https://code-summarizer.herokuapp.com/">[demo]</a>
+<br/><span class="tags">Tags: #summarization</span>
+</div>
+
+
+<div class="highlightitem">
+<h2>Naturalize</h2>
+Naturalize is a tool that learns and suggest coding conventions (such as variable names) to improve the stylistic consistency of your codebase.
+
+<br/><a href="https://github.com/mast-group/naturalize">[GitHub Repository]</a> <a href="http://groups.inf.ed.ac.uk/naturalize/">[Project page]</a>
+<br/><span class="tags">Tags: #codingconventions</span>
+</div>
+
 If you have a tool you would like to list here, head to <a href="https://github.com/learnbigcode/learnbigcode.github.io/tree/master/tools">the github page</a> and create a pull request with your suggestion.
 
