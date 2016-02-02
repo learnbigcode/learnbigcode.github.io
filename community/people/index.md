@@ -19,3 +19,12 @@ If you work in the area, please add yourself by editing <a href="https://github.
 
 Project website: <a href="http://www.srl.inf.ethz.ch/spas">[Machine Learning for Programming]</a>
 
+## Machine Learning for the Analysis of Source code Text (MAST)
+
+* [Charles Sutton](http://homepages.inf.ed.ac.uk/csutton/)
+* [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/)
+* [Jaroslav Fowkes](http://homepages.inf.ed.ac.uk/jfowkes/)
+* [Miltos Allamanis](http://miltos.allamanis.com)
+* Rafael Karampatsis
+
+[[Project website]](http://mast-group.github.io/) [[Github Page]](https://github.com/mast-group)
