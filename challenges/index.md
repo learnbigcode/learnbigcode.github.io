@@ -20,4 +20,12 @@ More information: [coming]
 </p>
 </div>
 
+<div class="highlightitem">
+<h2>Determining targets of virtual function calls in stripped binariesc</h2>
 
+<p>As most software today reaches most users in the form of stripped binaries, without any source code or debug symbols, the need to be able to understand the inner workings of software by analyzing and examining the binary becomes more prominent than ever before. The first step in understanding a piece of software is determining the control flow in the binary. This task becomes extremely difficult when virtual functions are used since all static knowledge pretaining to the target is lost.</p>
+
+<p>The goal is to create a tool that can statically determine the targets of virtual function calls in stripped binaries. As the target can be directly deduced from the runtime type of the object used in the call, the basic task of the tool should be to determine the types of objects in the binary. Furthermore, since each object is possibly an instance of one of several types, a complete answer is not a single type for each object but a set of possible types for the object.<br>
+Dataset used: <a href="/datasets#estimatingTypesDataset">[Estimating Types in Stripped Binaries Dataset]</a><br>
+</p>
+</div>

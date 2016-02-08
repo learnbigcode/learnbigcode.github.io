@@ -62,5 +62,17 @@ Naturalize is a tool that learns and suggest coding conventions (such as variabl
 <br/><span class="tags">Tags: #codingconventions</span>
 </div>
 
+<div class="highlightitem">
+<h2>Esty</h2>
+Esty is a tool aimed at estimating the types of objects in stripped binaries developed at the Technion Israel. 
+The tool uses a combination of static analysis and machine learning to learn usage patterns of objects instances of different types and predict the most likely types of objects for which the type is unknown.
+The leraning and prediction use <a href="https://en.wikipedia.org/wiki/Language_model">Statistical Language Models</a> based on the <a href="https://en.wikipedia.org/wiki/Prediction_by_partial_matching">Prediction by Partial Match</a> algorithm.
+The tool eventually determines the most likely targets for virtual function calls using the most likely types of the relevant objects, thus statically filling the gaps in the call graphs of stripped binaries.
+<br><br>
+
+<a href="http://omerkatz.cswp.cs.technion.ac.il/wp-content/uploads/sites/28/2016/01/p313-katz.pdf">[paper @ POPL 2016]</a> <a href="http://omerkatz.cswp.cs.technion.ac.il">[developer/author website]</a>
+<br><span class="tags">Tags: #staticanalysis #binaryanalysis #reverseengineering #estimatingtypes</span>
+</div>
+
 If you have a tool you would like to list here, head to <a href="https://github.com/learnbigcode/learnbigcode.github.io/tree/master/tools">the github page</a> and create a pull request with your suggestion.
 
