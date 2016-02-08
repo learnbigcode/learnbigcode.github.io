@@ -28,3 +28,8 @@ Project website: <a href="http://www.srl.inf.ethz.ch/spas">[Machine Learning for
 * Rafael Karampatsis
 
 [[Project website]](http://mast-group.github.io/) [[Github Page]](https://github.com/mast-group)
+
+## Software Research Lab, Technion, Israel
+
+* <a href="http://cs.technion.ac.il/~yahave">Prof. Eran Yahav</a> <a href="http://dblp.uni-trier.de/pers/hd/y/Yahav:Eran">[dblp]</a>
+* <a href="http://omerkatz.cswp.cs.technion.ac.il/">Omer Katz</a> <a href="http://dblp.uni-trier.de/pers/hd/k/Katz:Omer">[dblp]</a>

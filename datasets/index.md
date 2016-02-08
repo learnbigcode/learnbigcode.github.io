@@ -39,3 +39,15 @@ The files are from open source projects that have been forked at least once.
 
 <a href="http://groups.inf.ed.ac.uk/cup/naturalize/">[download dataset]</a></p>
 </div>
+
+<div class="highlightitem">
+<h1 id="estimatingTypesDataset">Estimating Types in Stripped Binaries Dataset</h1>
+
+<p>This dataset includes 20 stripped binaries used as benchmarks for evaluate estimation of object types and virtual function call targets. 
+It also contains the ground-truth determined for the object types. 
+The binaries were collected from publically availalble open-source projects, compiled with default optimizations and stripped.
+The dataset is provided in the form of a VM containing a Mongo database holding the data (see README for further details).
+<br/>
+
+<a href="http://1drv.ms/1J5h6Rl">[download dataset]</a></p>
+</div>
