@@ -9,6 +9,8 @@ share: false
 
 Typically a challenge consists of a dataset and a task that should be performed and evaluated with a specific dataset. The goal of challenges is for the research community to define important problems on which multiple solutions should appear. Most challenges already include some system as a baseline and the goal is to produce a better working (e.g. more precise) system. Challenges should be self-contained -- it should take a few hours for a newcomer to implement a naive solution to a challenge.
 
+Here is a list of proposed challenges:
+
 <div class="highlightitem">
 <h2>JavaScript code completion challenge</h2>
 
