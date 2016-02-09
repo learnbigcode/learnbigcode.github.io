@@ -9,6 +9,8 @@ share: false
 
 Add your program analysis tools by creating a pull request <a href="https://github.com/learnbigcode/learnbigcode.github.io/tree/master/tools">here</a>.
 
+This is a list of usable tools that you can try and see the benefits of "Big Code". Additionally, there are useful <a href="/tools/libs">libraries</a> useful when developing such tools.
+
 <div class="highlightitem">
 <h2>JSNice</h2>
 <a href="http://jsnice.org/">JSNice</a> is a statistical predictor of variable names and type annotations for JavaScript developed at ETH Zurich. The tool learns a probabilistic type inference procedure for JavaScript.<br>
@@ -30,22 +32,6 @@ SLANG is a code completion tool for Java that is intended to complete APIs. A to
 </div>
 
 <div class="highlightitem">
-<h2>codemining-*</h2>
-
-codemining-* is a suite of Java-based tools for tokenizing, parsing Java code. 
-The repository also contains code to analyze Git-based repositories.
-
-<ul>
-<li> <a href="https://github.com/mast-group/codemining-core">codeminining-core</a> contains code for tokenizing Java, JavaScript, Python, C and C++ in the JVM.</li>
-
-<li> <a href="https://github.com/mast-group/codemining-treelm">codemining-treelm</a> contains Java AST parsing and tree-level language models.</li>
-
-<li> <a href="https://github.com/mast-group/commitmining-tools">commitmining-tools</a> contains tools for traversing a Git repository, its history and possibly its files.</li>
-</ul>
-<br/><span class="tags">Tags: #codeanalysis</span>
-</div>
-
-<div class="highlightitem">
 <h2>TASSAL: Tree-based Autofolding Software Summarization ALgorithm</h2>
 TASSAL is a tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks. 
 
@@ -63,6 +49,13 @@ Naturalize is a tool that learns and suggest coding conventions (such as variabl
 </div>
 
 <div class="highlightitem">
+<h2>Libraries</h2>
+
+See <a href="/tools/libs">also useful libraries</a> that may help you develop new tools.
+</div>
+
+<!-- To be reinserted once the tool is actually present
+<div class="highlightitem">
 <h2>Esty</h2>
 Esty is a tool aimed at estimating the types of objects in stripped binaries developed at the Technion Israel. 
 The tool uses a combination of static analysis and machine learning to learn usage patterns of objects instances of different types and predict the most likely types of objects for which the type is unknown.
@@ -73,6 +66,7 @@ The tool eventually determines the most likely targets for virtual function call
 <a href="http://omerkatz.cswp.cs.technion.ac.il/wp-content/uploads/sites/28/2016/01/p313-katz.pdf">[paper @ POPL 2016]</a> <a href="http://omerkatz.cswp.cs.technion.ac.il">[developer/author website]</a>
 <br><span class="tags">Tags: #staticanalysis #binaryanalysis #reverseengineering #estimatingtypes</span>
 </div>
+-->
 
 If you have a tool you would like to list here, head to <a href="https://github.com/learnbigcode/learnbigcode.github.io/tree/master/tools">the github page</a> and create a pull request with your suggestion.
 
