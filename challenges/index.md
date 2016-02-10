@@ -31,3 +31,18 @@ More information: [coming]
 Dataset used: <a href="/datasets#estimatingTypesDataset">[Estimating Types in Stripped Binaries Dataset]</a><br>
 </p>
 </div>
+
+<div class="highlightitem">
+<h2>Establishing similarity of code fragments</h2>
+
+<p>Code similarity is a central challenge in many programming related applications, such as code search, automatic translation, and programming education.<p>
+
+<p>There are many approaches for establishing code similarity and clone detection. 
+However, most of these cannot capture similarity across programs using different APIs or algorithms, let alone programming languages.
+Furthermore, in some cases, equivalence is not what we are looking for.</p> 
+
+<p>The goal is to capture connections between code fragments, such as semantic similarity or relatedness, which are more relaxed notions than strict equivalence.<p>
+
+<p>Dataset used: <a href="/datasets#like2dropsData">[Like2DropsData]</a></p>
+<p>Crowd-sourcing system used to collect data: <a href="http://like2drops.com">[Like2Drops]</a><br></p>
+</div>

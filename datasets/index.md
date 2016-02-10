@@ -51,3 +51,13 @@ The dataset is provided in the form of a VM containing a Mongo database holding 
 
 <a href="http://1drv.ms/1J5h6Rl">[download dataset]</a></p>
 </div>
+
+<div class="highlightitem">
+<h1 id="like2dropsData">Similarity of code fragments Dataset</h1>
+
+<p>This dataset includes 3 different collections that provide pairs of code fragments with our tool's similarity score, the users' similarity score and the code's meta-data</p>
+<p>The dataset is provided as a MongoExport database holding the data (see README for further details).
+<br/>
+
+<a href="http://check.useast.appfog.ctl.io/download">[download dataset]</a></p>
+</div>
