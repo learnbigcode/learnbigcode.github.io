@@ -9,9 +9,7 @@ share: false
 
 Sharing datasets in a research community has a number of advantages. It allows for meaningful comparison between systems and enables researchers to spend more time on developing state-of-the-art methods as opposed to collecting and cleaning data.
 
-
-
-In case a dataset is useful for a specific task, a <a href="/challenges">challenge</a> can be created such that other people try to solve the same problem.
+In case a dataset is useful for a specific task, a <a href="/challenges">challenge</a> can be created such that other people try to solve the same problem. The datasets here should not require sign-up for web services or writing emails to their authors.
 
 
 <div class="highlightitem">
@@ -26,7 +24,7 @@ In case a dataset is useful for a specific task, a <a href="/challenges">challen
 <div class="highlightitem">
 <h1 id="githubjava">Java GitHub corpus</h1>
 
-<p>This dataset includes about 14k Java files from GitHub, split into training and test set.
+<p>This dataset includes about 14'000 Java files from GitHub, split into training and test set.
 The files are from open source projects that have been forked at least once.
 <br/>
 <a href="http://groups.inf.ed.ac.uk/cup/javaGithub/">[download dataset]</a></p>
@@ -40,6 +38,9 @@ The files are from open source projects that have been forked at least once.
 <a href="http://groups.inf.ed.ac.uk/cup/naturalize/">[download dataset]</a></p>
 </div>
 
+
+<!-- Removed because it is a POPL artifact and not just dataset. Also OneDrive login is required
+
 <div class="highlightitem">
 <h1 id="estimatingTypesDataset">Estimating Types in Stripped Binaries Dataset</h1>
 
@@ -52,6 +53,10 @@ The dataset is provided in the form of a VM containing a Mongo database holding 
 <a href="http://1drv.ms/1J5h6Rl">[download dataset]</a></p>
 </div>
 
+-->
+
+<!-- Removed because sign-up is required
+
 <div class="highlightitem">
 <h1 id="like2dropsData">Similarity of code fragments Dataset</h1>
 
@@ -61,3 +66,5 @@ The dataset is provided in the form of a VM containing a Mongo database holding 
 
 <a href="http://check.useast.appfog.ctl.io/download">[download dataset]</a></p>
 </div>
+
+-->
