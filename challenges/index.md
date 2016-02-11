@@ -21,16 +21,13 @@ Typically a challenge consists of a dataset and a task that should be performed 
 For a problem to become a challenge, the following in needed:
 
    * The challenge must define a <b>task</b> and a <b>metric</b> that is optimized.
+   * The metric to optimize is <b>challenging</b>: the state-of-the-art does not solve the problem for all practical purposes and improvements are needed.
    * A <b>training dataset</b> is publicly available.
    * An <b>evaluation dataset</b> is publicly available.
+   * The data should be <b>accessible</b>: using proprietary tools, writing emails or signing-up for services just to obtain the challenge or the data is not acceptable.
    * A work in a research paper tried to solve (a variant of) the problem defined in the challenge.
-   * It should be possible to create a simple stupid baseline solution without downloading some existing tools, virtual machines or other research prototype systems solving the problem in the task.
-   * The metric to optimize is <b>challenging</b>: the state-of-the-art does not solve the problem for all practical purposes and improvements are needed.
 
 Ideally a challenge is defined by its description, training and evaluation data. In case reading the data requires some special parser (or a database), this parser should be freely available. If you want to add a challenge, create a pull request <a href="https://github.com/learnbigcode/learnbigcode.github.io/tree/master/challenges">here</a>.
-
-List of current challenges:
-
 
 <div class="highlightitem">
 <h2>Candidates</h2>
