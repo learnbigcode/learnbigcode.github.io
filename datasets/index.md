@@ -9,7 +9,9 @@ share: false
 
 Sharing datasets in a research community has a number of advantages. It allows for meaningful comparison between systems and enables researchers to spend more time on developing state-of-the-art methods as opposed to collecting and cleaning data.
 
-In case a dataset is useful for a specific task, a <a href="/challenges">challenge</a> can be created such that other people try to solve the same problem. The datasets here should not require sign-up for web services or writing emails to their authors.
+In case a dataset is useful for a specific task, a <a href="/challenges">challenge</a> can be created such that other people try to solve the same problem.
+
+The datasets here should not require sign-up for web services or writing emails to their authors or third parties.
 
 
 <div class="highlightitem">
