@@ -70,3 +70,13 @@ The dataset is provided in the form of a VM containing a Mongo database holding 
 </div>
 
 -->
+
+<div class="highlightitem">
+<h1 id="methodnaming">Method Naming Dataset</h1>
+
+<p>This dataset includes the Java source code and JSON files containing the names and the tokens
+of the methods of 11 of the most popular GitHub Java projects.</p>
+
+<a href="http://groups.inf.ed.ac.uk/cup/codeattention/">[download dataset]</a></p>
+</div>
+
