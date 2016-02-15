@@ -35,14 +35,35 @@ Dataset used: <a href="/datasets#estimatingTypesDataset">[Estimating Types in St
 <div class="highlightitem">
 <h2>Establishing similarity of code fragments</h2>
 
-<p>Code similarity is a central challenge in many programming related applications, such as code search, automatic translation, and programming education.<p>
+<p>Code similarity is a central challenge in many programming related applications, such as code search, automatic translation, and programming education.</p>
 
 <p>There are many approaches for establishing code similarity and clone detection. 
 However, most of these cannot capture similarity across programs using different APIs or algorithms, let alone programming languages.
 Furthermore, in some cases, equivalence is not what we are looking for.</p> 
 
-<p>The goal is to capture connections between code fragments, such as semantic similarity or relatedness, which are more relaxed notions than strict equivalence.<p>
+<p>The goal is to capture connections between code fragments, such as semantic similarity or relatedness, which are more relaxed notions than strict equivalence.</p>
 
 <p>Dataset used: <a href="/datasets#like2dropsData">[Like2DropsData]</a></p>
 <p>Crowd-sourcing system used to collect data: <a href="http://like2drops.com">[Like2Drops]</a><br></p>
+</div>
+
+
+<div class="highlightitem" id="methodnaming">
+<h2>Method Naming Challenge</h2>
+
+<p>Developers pick the names of variables, classes and methods to reflect important aspects of their functionality.
+Learning to name snippets of methods is an important and hard machine learning problem and is a first step
+towards "understanding" what source code does from a machine learning lens.</p>
+
+<h4>Challenge Description</h4>
+<p>The goal of the challenge is to create a system that can predict the name of a method body, given solely its body.
+No features external to the body (e.g. the method signature) are included.
+We provide a training set that contains training pairs and a test set to perform evaluation.
+The evaluation consists of computing the <a href="https://en.wikipedia.org/wiki/F1_score">F1 score</a> over the subtokens 
+of the predicted method name, compared to the actual name.
+Two baselines (tf-idf) and a convolutional attentional neural network are provided in the
+related publication.</p>
+
+<p>Dataset <a href="/datasets#methodnaming">[Method Naming Dataset]</a></p>
+<p>Related publication: <a href="http://arxiv.org/abs/1602.03001">[ArXiV]</a></p>
 </div>
