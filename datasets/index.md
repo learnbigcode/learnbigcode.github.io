@@ -41,21 +41,18 @@ The files are from open source projects that have been forked at least once.
 </div>
 
 
-<!-- Removed because it is a POPL artifact and not just dataset. Also OneDrive login is required
-
 <div class="highlightitem">
 <h1 id="estimatingTypesDataset">Estimating Types in Stripped Binaries Dataset</h1>
 
 <p>This dataset includes 20 stripped binaries used as benchmarks for evaluate estimation of object types and virtual function call targets. 
 It also contains the ground-truth determined for the object types. 
 The binaries were collected from publically availalble open-source projects, compiled with default optimizations and stripped.
-The dataset is provided in the form of a VM containing a Mongo database holding the data (see README for further details).
+The dataset is provided in the form of dumps of MongoDB databases holding the data (see README for further details).
 <br/>
 
-<a href="http://1drv.ms/1J5h6Rl">[download dataset]</a></p>
+<a href="http://1drv.ms/1Ry62lI">[download dataset]</a></p>
 </div>
 
--->
 
 <!-- Removed because sign-up is required
 
