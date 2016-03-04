@@ -33,4 +33,7 @@ Project website: <a href="http://www.srl.inf.ethz.ch/spas">[Machine Learning for
 
 * <a href="http://cs.technion.ac.il/~yahave">Prof. Eran Yahav</a> <a href="http://dblp.uni-trier.de/pers/hd/y/Yahav:Eran">[dblp]</a>
 * <a href="http://omerkatz.cswp.cs.technion.ac.il/">Omer Katz</a> <a href="http://dblp.uni-trier.de/pers/hd/k/Katz:Omer">[dblp]</a>
+* <a href="http://www.cs.technion.ac.il/~nimi/">Nimrod Partush</a> <a href="http://dblp.uni-trier.de/pers/hd/p/Partush:Nimrod">[dblp]</a>
+* <a href="http://www.cs.technion.ac.il/~yanivd/">Yaniv David</a> <a href="http://dblp.uni-trier.de/pers/hd/d/David:Yaniv">[dblp]</a>
+* <a href="http://hilap.cswp.cs.technion.ac.il/">Hila Peleg</a> <a href="http://dblp.uni-trier.de/pers/hd/p/Peleg:Hila">[dblp]</a>
 * <a href="http://cs.technion.ac.il/~mbs">Meital Zilberstein</a>
