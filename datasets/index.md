@@ -53,9 +53,6 @@ The dataset is provided in the form of dumps of MongoDB databases holding the da
 <a href="http://1drv.ms/1Ry62lI">[download dataset]</a></p>
 </div>
 
-
-<!-- Removed because sign-up is required
-
 <div class="highlightitem">
 <h1 id="like2dropsData">Similarity of code fragments Dataset</h1>
 
@@ -65,8 +62,6 @@ The dataset is provided in the form of dumps of MongoDB databases holding the da
 
 <a href="http://check.useast.appfog.ctl.io/download">[download dataset]</a></p>
 </div>
-
--->
 
 <div class="highlightitem">
 <h1 id="methodnaming">Method Naming Dataset</h1>
