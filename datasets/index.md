@@ -72,3 +72,11 @@ of the methods of 11 of the most popular GitHub Java projects.</p>
 <a href="http://groups.inf.ed.ac.uk/cup/codeattention/">[download dataset]</a></p>
 </div>
 
+<div class="highlightitem">
+<h1 id="paralleldjango">Parallel Django Dataset</h1>
+
+<p>This dataset includes all source code of Python web framework Django with line-by-line English annotation.
+<br/>
+
+<a href="http://ahclab.naist.jp/pseudogen">[download dataset]</a></p>
+</div>
