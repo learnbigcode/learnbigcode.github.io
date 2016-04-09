@@ -11,7 +11,7 @@ The goal of challenges is for the research community to define important problem
 
 ## Criteria
 
-For a problem to become a challenge, the following in needed:
+For a problem to become a challenge, the following is needed:
 
    * The challenge must define a <b>task</b> and a <b>metric</b> to optimize.
    * The metric to optimize is <b>challenging</b>: the state-of-the-art does not fully solve the problem for all practical purposes and improvements are needed.
