@@ -20,5 +20,6 @@ share: false
 
 # Workshops
 
-* Dagstuhl workshop - <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15472">Programming from Big Code</a>
-* <a href="http://www.languageandcode.org/nlse2015/">NL + SE workshop</a>
+* <a href="http://nlse-fse.github.io">NL + SE workshop 2016,</a> Seattle, WA, Co-located with FSE 2016.
+* Dagstuhl workshop - <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15472">Programming from Big Code,</a> 2015.
+* <a href="http://www.languageandcode.org/nlse2015/">NL + SE workshop 2015,</a> Redmond, WA
