@@ -19,3 +19,6 @@ Project website: <a href="http://www.srl.inf.ethz.ch/spas">[Machine Learning for
  
 ## Software Research Lab, Technion, Israel
 Project website: <a href="http://www.cs.technion.ac.il/~yahave/prime/index.html">[PRIME]</a>
+
+### Software Heritage, Inria, France
+Project website: <a href="https://www.softwareheritage.org">[Software Heritage]</a>
