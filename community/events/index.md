@@ -7,7 +7,18 @@ comments: false
 share: false
 ---
 
+# Workshops
+
+These are workshops specifically on the topic of big code in programming languages and software engineering.
+
+* <a href="http://nlse-fse.github.io">NL + SE workshop 2016,</a> Seattle, WA, USA. Co-located with FSE 2016.
+* Dagstuhl workshop - <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15472">Programming from Big Code,</a> 2015. Schloss Dagstuhl, Germany.
+* <a href="http://www.languageandcode.org/nlse2015/">NL + SE workshop 2015,</a> Redmond, WA, USA.
+
+
 # International Conferences
+
+These top international conferences regularly include papers on big code.
 
 * <a href="http://www.cs.ucdavis.edu/fse2016/">FSE (Foundations of Software Engineering)</a>
 * <a href="http://icml.cc/">ICML (International Conference on Machine Learning)</a>
@@ -17,8 +28,3 @@ share: false
 * <a href="http://conf.researchr.org/home/pldi-2016">PLDI (Programming Language Design and Implementation)</a>
 * <a href="http://conf.researchr.org/home/POPL-2016">POPL (Principles of Programming Languages)</a>
 
-
-# Workshops
-
-* Dagstuhl workshop - <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15472">Programming from Big Code</a>
-* <a href="http://www.languageandcode.org/nlse2015/">NL + SE workshop</a>

@@ -67,3 +67,23 @@ related publication.</p>
 <p>Dataset <a href="/datasets#methodnaming">[Method Naming Dataset]</a></p>
 <p>Related publication: <a href="http://arxiv.org/abs/1602.03001">[ArXiV]</a></p>
 </div>
+
+<div class="highlightitem" id="methodnaming">
+<h2>Statistical Similarity of Binaries</h2>
+
+<p>Say that you have a procedure in assembly code (a query), and you want to find similar procedures, say the same source code compiled by a different compiler or slightly patched, in a collection of assembly procedures (targets).</p>
+
+<p>Why would I want to do this? Imagine you have a vulnerable procedure (e.g. <a href="heartbleed.com">Heartbleed</a>), and you want to check if it was embedded in some binary in your organization, but don't know what compiler was used, or whether the code was patched. Other use-cases can be clone detection for reducing code-base maintenance code-reuse or for identifying IP theft, etc. That's where Esh comes in!</p>
+
+<p>What's Esh? Esh is a tool that allows searching a corpus of procedures in assembly code, for a query procedure, even if the source code was compiled with a different compiler of was slighly patched. Visit the <a href="http://BinSim.com">Esh site</a> on to learn more.</p>
+
+<p>The <a href="http://BinSim.com">Esh site</a> includs a demo of a key component of Esh - the ability to find semantic similarity of small linear pieces of code, where no matching of variable names exist. Why? because this is the common scenario when dealing with assembly code - no variable names exists, so you need to get creative to compute similarity. Other key aspects of Esh are procedure decomposition and statistical significance.</p>
+
+<p>Developers pick the names of variables, classes and methods to reflect important aspects of their functionality.
+Learning to name snippets of methods is an important and hard machine learning problem and is a first step
+towards "understanding" what source code does from a machine learning lens.</p>
+
+<p>Related publication: <a href="http://www.nimrodpartush.com/pdf/esh-paper.pdf">[PLDI 2016]</a></p>
+<p>Esh site: <a href="http://BinSim.com">[BinSim.com]</a><br></p>
+</div>
+

@@ -11,29 +11,14 @@ share: false
 
 If you work in the area, please add yourself by editing <a href="https://github.com/learnbigcode/learnbigcode.github.io/blob/master/community/people/index.md">this file</a>.
 
-## <a href="http://www.srl.inf.ethz.ch/">Software Reliability Group, ETH Zurich</a>
-
-* <a href="http://www.srl.inf.ethz.ch/vechev">Prof. Dr. Martin Vechev</a> <a href="http://dblp.uni-trier.de/pers/hd/v/Vechev:Martin_T=">[dblp]</a>
-* <a href="http://www.srl.inf.ethz.ch/bielik">Pavol Bielik</a> <a href="http://dblp.uni-trier.de/pers/hd/b/Bielik:Pavol">[dblp]</a>
-* <a href="http://www.srl.inf.ethz.ch/raychev">Veselin Raychev</a> <a href="http://dblp.uni-trier.de/pers/hd/r/Raychev:Veselin">[dblp]</a>
-
+## <a href="http://www.srl.inf.ethz.ch/">Software Reliability Lab, ETH Zurich</a>
 Project website: <a href="http://www.srl.inf.ethz.ch/spas">[Machine Learning for Programming]</a>
-
-## Machine Learning for the Analysis of Source code Text (MAST)
-
-* [Charles Sutton](http://homepages.inf.ed.ac.uk/csutton/)
-* [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/)
-* [Jaroslav Fowkes](http://homepages.inf.ed.ac.uk/jfowkes/)
-* [Miltos Allamanis](http://miltos.allamanis.com)
-* Rafael Karampatsis
-
+ 
+## Machine Learning for the Analysis of Source code Text (MAST), Edinburgh, UK
 [[Project website]](http://mast-group.github.io/) [[Github Page]](https://github.com/mast-group)
-
+ 
 ## Software Research Lab, Technion, Israel
+Project website: <a href="http://www.cs.technion.ac.il/~yahave/prime/index.html">[PRIME]</a>
 
-* <a href="http://cs.technion.ac.il/~yahave">Prof. Eran Yahav</a> <a href="http://dblp.uni-trier.de/pers/hd/y/Yahav:Eran">[dblp]</a>
-* <a href="http://omerkatz.cswp.cs.technion.ac.il/">Omer Katz</a> <a href="http://dblp.uni-trier.de/pers/hd/k/Katz:Omer">[dblp]</a>
-* <a href="http://www.cs.technion.ac.il/~nimi/">Nimrod Partush</a> <a href="http://dblp.uni-trier.de/pers/hd/p/Partush:Nimrod">[dblp]</a>
-* <a href="http://www.cs.technion.ac.il/~yanivd/">Yaniv David</a> <a href="http://dblp.uni-trier.de/pers/hd/d/David:Yaniv">[dblp]</a>
-* <a href="http://hilap.cswp.cs.technion.ac.il/">Hila Peleg</a> <a href="http://dblp.uni-trier.de/pers/hd/p/Peleg:Hila">[dblp]</a>
-* <a href="http://cs.technion.ac.il/~mbs">Meital Zilberstein</a>
+### Software Heritage, Inria, France
+Project website: <a href="https://www.softwareheritage.org">[Software Heritage]</a>
