@@ -26,3 +26,20 @@ The repository also contains code to analyze Git-based repositories.
 </ul>
 <br/><span class="tags">Tags: #codeanalysis</span>
 </div>
+
+
+<div class="highlightitem">
+<h2>bigcode-tools</h2>
+
+bigcode-tools is a suite of tools to fetch, parse and process source code.
+It also contains utility to generate vector embeddings from source code.
+It currently supports Python 2 and 3, Java and JavaScript.
+The tools are designed to be compatible with <a href="http://www.srl.inf.ethz.ch/py150.php">py150</a> and <a href="http://www.srl.inf.ethz.ch/js150.php">js150</a> datasets.
+
+
+<ul>
+<li><a href="https://github.com/tuvistavie/bigcode-tools">bigcode-tools main repository</a></li>
+<li><a href="https://github.com/tuvistavie/bigcode-tools/blob/master/doc/tutorial.md">bigcode-tools tutorial</a></li>
+</ul>
+<br/><span class="tags">Tags: #codeanalysis #embeddings</span>
+</div>
