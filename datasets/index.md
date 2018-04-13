@@ -34,7 +34,7 @@ The datasets here should not require sign-up for web services or writing emails 
 <div class="highlightitem">
 <h1 id="githubjava">Java GitHub corpus</h1>
 
-<p>This dataset includes about 14'000 Java files from GitHub, split into training and test set.
+<p>This dataset includes about 14'000 Java projects from GitHub, split into training and test set.
 The files are from open source projects that have been forked at least once.
 <br/>
 <a href="http://groups.inf.ed.ac.uk/cup/javaGithub/">[download dataset]</a></p>
