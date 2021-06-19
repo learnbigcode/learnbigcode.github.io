@@ -22,3 +22,6 @@ Project website: <a href="http://www.cs.technion.ac.il/~yahave/prime/index.html"
 
 ### Software Heritage, Inria, France
 Project website: <a href="https://www.softwareheritage.org">[Software Heritage]</a>
+
+## GitLab - Global Search Team
+Project website: <a href="https://about.gitlab.com/handbook/engineering/development/enablement/search/">[Team Page]</a>
